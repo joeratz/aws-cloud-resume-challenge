@@ -13,6 +13,7 @@ My attempt at the AWS [Cloud Resume Challenge](https://cloudresumechallenge.dev/
 * Setup GitHub repo for front-end, utilized GitHub Actions to automate updates and deployment.
 
 ## Work In Progress
+* Please note: website is constantly undergoing updates and is NOT a final product until this ReadMe is updated saying so.
 * Writing Infrastrucute as Code using Terraform
 * Setup GitHub repo for back-end
 
