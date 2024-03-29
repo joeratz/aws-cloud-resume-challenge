@@ -1,30 +1,3 @@
-///
-/// Hyperspace by HTML5 UP
-/// html5up.net | @ajlkn
-/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-///
-
-/* Wrapper (main) */
-
-	#wrapper {
-		#sidebar + & {
-			margin-left: _size(sidebar-width);
-
-			@include breakpoint('<=large') {
-				margin-left: 0;
-				padding-top: _size(sidebar-height);
-			}
-
-			@include breakpoint('<=small') {
-				padding-top: 0;
-			}
-		}
-
-		#header + & {
-			> .wrapper {
-				> .inner {
-					margin: 0 auto;
-				}
-			}
-		}
-	}
+version https://git-lfs.github.com/spec/v1
+oid sha256:560329ce117ad77a21024b8d622b0d1d91662864a8a7b62bcfeaedb2e4ffde02
+size 493

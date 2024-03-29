@@ -1,33 +1,3 @@
-///
-/// Hyperspace by HTML5 UP
-/// html5up.net | @ajlkn
-/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-///
-
-/* Intro */
-
-	#intro {
-		background-attachment: fixed;
-		background-image: url('images/intro.svg');
-		background-position: top right;
-		background-repeat: no-repeat;
-		background-size: 100% 100%;
-
-		p {
-			font-size: 1.25em;
-
-			@include breakpoint('<=medium') {
-				br {
-					display: none;
-				}
-			}
-
-			@include breakpoint('<=small') {
-				font-size: 1em;
-			}
-		}
-
-		@include breakpoint('<=large') {
-			background-attachment: scroll;
-		}
-	}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d54596331def4eba0e0b5bc4a6d0b63afd08f593c1cfbdc464918c86b71302d4
+size 595
