@@ -11,13 +11,13 @@ My attempt at the AWS [Cloud Resume Challenge](https://cloudresumechallenge.dev/
 * I created an API Gateway to communicate my Javascript code with DynamoDB.
 * I wrote a Lambda Function using Python, triggered by my API Gateway, that reads from my DynamoDB table and updates the view counter. This also includes tests for my Python code.
 * Setup GitHub repo for front-end, utilized GitHub Actions to automate updates and deployment.
+* Wrote it all as Infrastructure as Code using Terraform.
 
 ## Work In Progress
 * Please note: website is constantly undergoing updates and is NOT a final product until this ReadMe is updated saying so.
-* Writing Infrastructure as Code using Terraform
 * Setup GitHub repo for back-end
 
 ## Other Links
 LinkedIn: [Joe Ratzlaff](https://www.linkedin.com/in/joe-ratzlaff-95b582159/)
 
-My Resume Website: [My Cloud Resume](https://real.jratzresume.com/)****
+My Resume Website: [My Cloud Resume](https://real.jratzresume.com/)
