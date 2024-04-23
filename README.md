@@ -15,6 +15,7 @@ My attempt at the AWS [Cloud Resume Challenge](https://cloudresumechallenge.dev/
 
 ## Work In Progress
 * Please note: website is constantly undergoing updates and is NOT a final product until this ReadMe is updated saying so.
+* Create a working Contact Me form with Amazon SES
 * Setup GitHub repo for back-end
 
 ## Other Links
